@@ -1,0 +1,16 @@
+
+.addUser{
+    text-align: center;
+    margin: 2% auto;
+
+}
+.displayUsers > div {
+    box-shadow: 0 0 20px 0px #d1c8c8;
+    border-top: 5px solid #9c27b0;
+    margin: 2% auto;
+    width: 40%;
+    cursor: pointer;
+    height: 40%;
+    text-align: center;
+    padding: 2% 0;
+}
